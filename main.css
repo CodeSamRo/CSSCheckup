@@ -1,0 +1,25 @@
+.wrapper{
+    margin: 5px;
+    border-style: solid double solid double;
+    width: 80%;
+}
+.static{
+    position: fixed;
+    top: 5;
+    right: 0;
+    border: 3px dotted lightgreen;
+}
+h1{
+    text-align: center;
+}
+#Basic1{
+    text-align: left;
+    background-color: lightslategrey;
+    height: 30px;
+}
+h1 p li{
+    font-family: "Times New Roman", Times, serif;
+}
+ul{
+    background-color: lightblue;
+}
